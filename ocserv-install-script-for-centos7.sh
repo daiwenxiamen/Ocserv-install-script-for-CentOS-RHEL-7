@@ -633,3 +633,4 @@ ConfigFirewall
 ConfigSystem
 PrintResult
 exit 0
+1
